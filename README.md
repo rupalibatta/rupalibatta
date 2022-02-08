@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rupali! I'm a high school student from San Jose, California.
+- 👋 Hi, I’m Rupali! I'm a high school senior from San Jose, California.
 - 👀 I’m interested in machine learning, data analysis, and their applications in public policy.
-- 🌱 I’m currently working on natural language processing in UCSC's NLP Lab.
+- 🌱 I’m currently working on data visualization and policy research at Harvard's Institute of Quantitative Social Science.
 - 📫 You can reach me at rupalibatta04 (at) gmail.com or at www.linkedin.com/in/rupalibatta/
