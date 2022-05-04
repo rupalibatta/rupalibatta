@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rupali! I'm an incoming freshman at Caltech.
-- 👀 I’m interested in machine learning, data analysis, and their applications in public policy.
-- 🏛️ I’m currently working on data visualization and policy research at Harvard's Institute of Quantitative Social Science.
-- 📫 You can reach me at rupalibatta04 (at) gmail.com or at www.linkedin.com/in/rupalibatta/
+- Hi, I’m Rupali! I'm an incoming freshman at Caltech.
+- I’m interested in machine learning, data analysis, and their applications in public policy.
+- I’m currently working on data visualization and policy research at Harvard's Institute of Quantitative Social Science.
+- You can reach me at rupalibatta04 (at) gmail.com or at www.linkedin.com/in/rupalibatta/
