@@ -1,4 +1,4 @@
-- Hi, I’m Rupali! I'm an incoming freshman at Caltech.
-- I’m interested in machine learning, data analysis, and their applications in public policy.
+- Hi, I’m Rupali! I'm freshman at Caltech double majoring in Computer Science and Business, Economics, and Management.
+- I’m interested in machine learning, data analysis, and their applications in socioeconomics.
 - I’m currently working on data visualization and policy research at Harvard's Institute of Quantitative Social Science.
-- You can reach me at rupalibatta04 (at) gmail.com or at www.linkedin.com/in/rupalibatta/
+- You can reach me at rupali (at) caltech.edu or at www.linkedin.com/in/rupalibatta
