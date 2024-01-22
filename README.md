@@ -1,4 +1,4 @@
-- Hi, I’m Rupali! I'm sophomore at Caltech double majoring in Computer Science and Finance.
-- I’m interested in machine learning, data analysis, and algorithms.
-- I’m currently working on quantitative finance research at the Caltech Linde Institute of Economics.
+- Hi, I’m Rupali! I'm sophomore at Caltech double majoring in Computer Science and Econ.
+- I’m interested in LLMs, big data, quant research, and startups.
+- I’m currently working on quant finance research at the Caltech Linde Institute of Economics.
 - You can reach me at rupali (at) caltech.edu!
