@@ -1,5 +1,4 @@
 - CS @ Caltech '26
-- Quant Research Intern @ BlackRock (Summer) & Incoming SWE Intern @ Amazon (Fall)
-- Prev. SWE intern @ AMD, NASA JPL
-- Interested in LLMs, robotics, quant research, and startups.
+- ex. Quant Research @ BlackRock, SDE @ Amazon, Propulsion @ NASA JPL
+- Interested in LLMs, robotics, data, and startups.
 - rupali (at) caltech.edu
