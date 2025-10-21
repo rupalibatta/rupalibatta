@@ -1,4 +1,4 @@
 - cs @ caltech '26
-- ex. quant research @ blackrock, sde @ aws, propulsion @ nasa jpl
-- interested in llms, robotics, data, and startups.
+- formerly quant research @ blackrock, sde @ aws, propulsion @ nasa jpl
+- interested in llms, robotics, conservation, and startups.
 - rupali (at) caltech.edu
