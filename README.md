@@ -1,3 +1,4 @@
+- robotics & ai dphil student @ oxford
 - cs @ caltech '26
 - formerly quant research @ blackrock, sde @ aws, propulsion @ nasa jpl
 - interested in llms, robotics, conservation, and startups.
